@@ -1,2 +1,21 @@
-This week I continued working post my small break. I started working on a remote assessment for a school. Making sure the software and systems are set up according to 
-the DOE standards. 
+This week I continued working after my small break. I started working on a remote assessment for a school. Making sure the software and systems are set up according to the DOE
+standards. I worked on that throughout the short week. On Friday, I remotely helped one of the newer interns with how to do an on-site assessment, and ensured they didn't forget
+any steps.
+
+One of the things I have to check on the software is the LSA RAID arrays(Redundant Array of Independent Disks). I recently learned what this is when studying for my Security+ 
+exam. Since I didn't know what it was prior, I figured I would share a video about the most common types of RAID arrays-0, 1, 5, 10.
+
+RAIDS in short:
+
+RAID 0 is striping- meaning the data is split across multiple drives.
+
+RAID 1 is mirroring- meaning the data is copied identically and has an extra copy stored.
+
+RAID 5 is striping with parity- meaning the data is split across multiple drives and parity allows for data to be reconstructed if failed.
+
+RAID 10 is striping and mirroring- it combines the advantages of both RAID 1 and RAID 0.
+
+http://youtube.com/watch?v=U-OCdTeZLac - RAID explanation
+
+https://www.youtube.com/watch?v=Tf2hQtGnmxo - as a bonus, I've included the PBQ about RAID arrays to test your knowledge. 
+
