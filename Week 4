@@ -3,8 +3,14 @@ Additionally, I also started working on a new site. On Thursday I had to deal wi
 too many cameras on a  server. It was not load balanced at all. We also had some synchronization issues we were able to fix by virtually logging onto the server. 
 I learned how to set up a new archiver in Gentec as well as delete old footage that has passed the 60 day mark. I also sent out my first updated report this week!
 
-This week I learned about the concept of Daisy changing. 
+This week I learned about the concept of Daisy changing. 🌼🌼
 The official definition according to the Miriam-Webster dictionary is "to link (things, such as computer components) together in series".
 https://www.fs.com/glossary/daisy-chaining-310.html 
 I've attached the article above for a better understanding. If our two servers had used this technique, this issue likely would not have happened.
+
+Another thing I mentioned this week is load balancing. 
+Load balancing distributes the workload across multiple resources which helps prevent overloading of any single resource. 
+In my case this week we had to create another archiver on Genetec so we can load balance and not run into this issue again.
+A couple of advantages of load balancing are optimization of resource and response time.
+
 
