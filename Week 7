@@ -1,4 +1,4 @@
-This week I did not work since I was away for the holiday. 
+This week I did not work since I was away for the holiday. Therefore, I will explain a small aspect of what I do.
 
 When we remotely connect to the server via remote desktop connection, in the network settings on the active NIC card we make sure that IPV4 is checked and IPV6 is 
 unchecked.
