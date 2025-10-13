@@ -7,8 +7,9 @@ screens were reversed and misaligned.
 
 How to fix a dual monitor that is misaligned. 
 1- right click on the desktop
-2- select display settings- there you will see the two monitor boxes that are labeled 1 and 2
-3- click and drag them so they are in the correct order (how the monitors are physically positioned)
+2- select dual display- there you will see the two monitor boxes that are labeled 1 and 2
+3-click on identify and it will put a number at the left/right hand corner of the screen you are currently using (it will either be 1 or 2)
+4- click and drag the monitor box so they are in the correct order (how the monitors are physically positioned)
 4- click apply
 
 Then your two monitors should be aligned correctly.
