@@ -1,6 +1,7 @@
 This week I did not work since I was away for the holiday. 
 
-When we remotely connect to the server via remote desktop connection, in the network settings on the active NIC card we make sure that IPV4 is checked and IPV6 is unchecked.
+When we remotely connect to the server via remote desktop connection, in the network settings on the active NIC card we make sure that IPV4 is checked and IPV6 is 
+unchecked.
 
 Some difference between IPV4 and IPV6 that are security related:
 1-The biggest difference is the address space. IPv4 uses a 32-bit address while IPv6 uses a 128-bit address. Thus IPv6 supports a significantly larger amount of unique
@@ -9,9 +10,9 @@ addresses. The huge number of address spaces make it almost impossible for hacke
 2- Monitoring traffic on IPv6 can be more challenging than monitoring IPv4 traffic. As we mentioned earlier, IPv6 has a larger address space which makes it harder to
 Monitor and track all network activity. 
 
-3- Both IPv4 and IPv6 have different threat vulnerabilities. IPv4 is more susceptible to IP fragmentation attacks, which means hackers break apart packets and reassemble them
-to evade security control. IPv6 is more susceptible to router advertisement attack, where hackers send fake RA(router advertisement) messages to redirect the message allowing
-them to disrupt or control communication, whether that be a DoS or man in the middle attack.
+3- Both IPv4 and IPv6 have different threat vulnerabilities. IPv4 is more susceptible to IP fragmentation attacks, which means hackers break apart packets and reassemble
+them to evade security control. IPv6 is more susceptible to router advertisement attack, where hackers send fake RA(router advertisement) messages to redirect the message 
+allowing them to disrupt or control communication, whether that be a DoS or man in the middle attack.
 
 
 
