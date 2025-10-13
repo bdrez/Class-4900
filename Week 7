@@ -1,3 +1,9 @@
 This week i did not work since i was away for the holiday. 
 
-In the server when we connect via remote desk top one settings we make sure the netwrok settings is set to IPV4 and not IPV6. So i will mention the difference between the two.
+When we remotely connect to the server via remote desk top connection, in the network settings on the active NIC card we make sure that IPV4 is checked and IPV6 is unchecked.
+
+Some difference between IPV4 and IPV6 that are secuirty related:
+1-The biggest difference is the address space. IPv4 uses 32-bit address while IPv6 uses 128-bit address. Thus IPv6 supports a significantly larger amount of unique address. The 
+huge possibility of address spaces make it almost impossible for hackers to scan the entire range, making it hard to attack a specific device. 
+
+
