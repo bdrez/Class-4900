@@ -2,4 +2,14 @@ This week I went back to work after the holiday. I started working on a new site
 there were no major issues, but the second server was not as well set up and took longer to go through. As well as, begin  going through some of the site pictures to 
 check the physical set up. I also prepared and presented my live demo for this class.  Additionally, I attended my code path class and worked in the lab.
 
+This week i will explain some linux commans that we use:
+
+ipconfig - this is used to get the decivces IP
+We do this on the MVS on site to make sure we got the correct IP which will allow us to do our work most efficenlty.
+
+hostname- this is used to get us the name assoicated with the device 
+Similar to above, we do this to ensure we have the proper name of the device if needed. 
+
+ping - this allows us to test if we can reach a devcie over the network. 
+We usually do this to make sure the MVS is online and if we have troble logging into genetec with a certain ip. 
 
