@@ -11,7 +11,7 @@ hostname- this is used to get us the name associated with the device
 Similar to above we do this to ensure we have the proper name of the device if needed. 
 
 ping - this allows us to test if we can reach a device over the network. 
-We usually do this to make sure the MVS is online and if we have trouble logging into genetec with a certain ip. 
+We usually do this to make sure the MVS is online and if we have trouble logging into genetec with a certain ip.
 
 
 
