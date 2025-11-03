@@ -12,3 +12,7 @@ Port 550- This allows us to remote desktop access or viewer connections (VNC), b
 
 It is always a good security practice to close your ports after they are used to prevent unwanted access into your systems through these ports.
 
+Bellow i will list some other popular ports:
+Port 21- FTP- this is use for simple file transfer 
+Port 22-SSH- this allows us to secure shell which allows for a secure remote terminal access,
+Port 25--SMTP- this allows us to send emails over the network
