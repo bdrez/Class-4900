@@ -3,3 +3,11 @@ set up correctly and cameras taken offline. Together we were able to figure out 
 was able to finish this report.  I also started a brand new report that has been set up well so far and has no major issues. As well as, circle back to another report to 
 finish by checking the school's field of view. I also asked one of my supervisors for help because a lot of the four way cameras had a 2 second blind spot. I also attend 
 my codepath class this week and worked on the homework. 
+
+When fixing the Gentec settings on the server side we deal with differnt types of ports:
+
+Port 80 - This allows us to have HTTP connection that is unsecure. 
+Port 443- This allows us to have a secure HTTPS connection. 
+Port 550- This allows us to remote desktop access VNC. 
+
+It is always a good secuirty practice to close your ports after they are used to prevent unwatned access into your systmes through these ports. 
