@@ -10,4 +10,5 @@ Port 80 - This allows us to have an HTTP connection that is unsecure.
 Port 443- This allows us to have a secure HTTPS connection. 
 Port 550- This allows us to remote desktop access or viewer connections (VNC), but its offical registrer for legacy service.
 
-It is always a good security practice to close your ports after they are used to prevent unwanted access into your systems through these p
+It is always a good security practice to close your ports after they are used to prevent unwanted access into your systems through these ports.
+
