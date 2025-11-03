@@ -4,10 +4,10 @@ was able to finish this report.  I also started a brand new report that has been
 finish by checking the school's field of view. I also asked one of my supervisors for help because a lot of the four way cameras had a 2 second blind spot. I also attend 
 my codepath class this week and worked on the homework. 
 
-When fixing the Gentec settings on the server side we deal with differnt types of ports:
+When fixing the Gentec settings on the server side we deal with different types of ports:
 
-Port 80 - This allows us to have HTTP connection that is unsecure. 
+Port 80 - This allows us to have an HTTP connection that is unsecure. 
 Port 443- This allows us to have a secure HTTPS connection. 
-Port 550- This allows us to remote desktop access VNC. 
+Port 550- This allows us to remote desktop access or viewer connections (VNC), but its offical registrer for legacy service.
 
-It is always a good secuirty practice to close your ports after they are used to prevent unwatned access into your systmes through these ports. 
+It is always a good security practice to close your ports after they are used to prevent unwanted access into your systems through these p
