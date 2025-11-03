@@ -8,7 +8,7 @@ When fixing the Gentec settings on the server side we deal with different types 
 
 Port 80 - This allows us to have an HTTP connection that is unsecure. 
 Port 443- This allows us to have a secure HTTPS connection. 
-Port 550- This allows us to remote desktop access or viewer connections (VNC), but its offical registrer for legacy service.
+Port 550- This allows us to remote desktop access or viewer connections (VNC), but its official register for legacy service.
 
 It is always a good security practice to close your ports after they are used to prevent unwanted access into your systems through these ports.
 
@@ -16,3 +16,6 @@ Bellow i will list some other popular ports:
 Port 21- FTP- this is use for simple file transfer 
 Port 22-SSH- this allows us to secure shell which allows for a secure remote terminal access,
 Port 25--SMTP- this allows us to send emails over the network
+
+
+
