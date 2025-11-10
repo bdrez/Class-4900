@@ -10,4 +10,4 @@ Networking is simply two or more computers linked together to share data, inform
 LAN- Local Area Network- This network typically spans a single floor or building and is commonly used for a limited geographical area. 
 VLAN-Virtual LAN- This network takes a group of devices on a larger network and creates a virtual LAN for those devices, this is done to separate them from other device on 
 the network.
-WAN- Wide Area Network- This network is a long distance connection between geographically remote networks. 
+WAN- Wide Area Network- This network is a long distance connection between geographically remote networks.
