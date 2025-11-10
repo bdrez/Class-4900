@@ -8,7 +8,7 @@ This week i will explain the difference between LAN, VLAN and WAN:
 Networking is simply two or more computers linked together to share data, information, and resources.
 
 LAN- Local Area Network- This network typically spans a single floor or building and is commonly used for a limited geographical area. 
-VLAN-Virtiual LAN- This network takes a group of device on a larger network and creates a virtual LAN for those devices, this is done to seperate them from other device on the 
-network.
+VLAN-Virtiual LAN- This network takes a group of device on a larger network and creates a virtual LAN for those devices, this is done to seperate them from other device on 
+the network.
 WAN- Wide Area Network- This network is a long distance connection between geographically remote networks. 
 
