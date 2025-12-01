@@ -3,3 +3,9 @@ were double checking our information to make sure it was accurate. I learned som
 Thanksgiving break! I also had the opportunity to go on the FBI trip! It was very cool to hear the ITS and other employees talk about their experience and getting to 
 view the JOC. 
 
+This week i will be listing some of the new cmd commands we learned:
+Winver- used to get the windows version of a system. 
+Systeminfo- used to get detailed information about systems such as system manufacture and model as well as  windows version and much more.
+Wmic bios get serial number- used to retrieve the BIOS serial number of the device 
+
+
