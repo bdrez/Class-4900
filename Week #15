@@ -3,4 +3,7 @@ have one of my supervisors helped me with IPro camera settings and we did them o
 on a new one. I also went over site pictures with another intern to help them and got more training. I started working on a new report that has a few issues so its taking
 a bit longer than normal. I also helped train a newer intern going over the report process with her. 
 
+This week i will explain what a Checksum is:
+A checksum is a method to verify the integrity of the data. You compare the checksum of the data you send vs the checksum of the data you received. If they are the same that
+means the data is good and was not tampered with. If the checksum is not the same, that indicates that data integrity is at risk.
 
